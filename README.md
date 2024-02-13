@@ -1,0 +1,3 @@
+# 수정 사항
+
+## 2024.02.13 수정 : STD_CEG_CAR_MIG => STD_CEG_GRD_LST
